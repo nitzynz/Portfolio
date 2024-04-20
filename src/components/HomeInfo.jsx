@@ -7,7 +7,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <h1 className="sm:text-xl sm:leading-snug text-center neo-brutalism-blue py-4 px-8 text-white mx-5">
         Hi, I'm
-        <span className="font-semibold mx-2 text-white">Nithyashree G</span>
+        <span className="font-semibold mx-2 text-white">Nithyashree Govindarajan</span>
         👋
         <br /> Software Engineer with 2+ years of experience building solution
         for a Fortune 500 company
